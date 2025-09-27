@@ -1,5 +1,5 @@
 #include <vector>
-#inlcude <iostream>
+#include <iostream>
 using namespace std;
 
 class Solution {
